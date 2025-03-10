@@ -1,0 +1,13 @@
+{
+    "users":[{
+        "id":"a14s5c14",
+        "name":"João",
+        "password":"asdsad4asd4sa35d4as3d54",
+        "type":"ADM"
+    },{
+        "id":"a14sdsde3434",
+        "name":"Arthur",
+        "password":"asddsd12asd4sa35d4as3d54",
+        "type":"ADM"
+    }]
+}
